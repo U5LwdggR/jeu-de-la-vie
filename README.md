@@ -31,7 +31,7 @@ Il s’agit d’un automate cellulaire où chaque cellule d’une grille peut ê
 1. **Cloner le projet** :
    ```bash
    git clone https://github.com/votre-nom/jeu-de-la-vie-java.git
-   cd jeu-de-la-vie-java
+   cd jeu-de-la-vie
    
 2. compiler le projet:
     ```bash
